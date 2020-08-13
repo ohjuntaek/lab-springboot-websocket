@@ -37,3 +37,13 @@
 ## main.js의 connect()
 
 - /ws 로 커넥트를 보내는 듯
+
+
+## [좀 더 설명 잘된 거 보고 공부](https://supawer0728.github.io/2018/03/30/spring-websocket/)
+
+- [D2 : polling vs streaming ... 등](https://d2.naver.com/helloworld/1052)
+- [스프링 레퍼런스 STOMP 설명 + WebSocket](https://docs.spring.io/spring/docs/5.0.4.RELEASE/spring-framework-reference/web.html#websocket-stomp-message-flow)
+
+![](.README_images/websocket_img.png)
+
+은근 어렵네
